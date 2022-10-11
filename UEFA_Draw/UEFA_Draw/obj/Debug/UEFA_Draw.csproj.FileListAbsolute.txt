@@ -1,0 +1,13 @@
+C:\Users\amark\source\repos\UEFA_Draw\UEFA_Draw\bin\Debug\UEFA_Draw.exe.config
+C:\Users\amark\source\repos\UEFA_Draw\UEFA_Draw\bin\Debug\UEFA_Draw.exe
+C:\Users\amark\source\repos\UEFA_Draw\UEFA_Draw\bin\Debug\UEFA_Draw.pdb
+C:\Users\amark\source\repos\UEFA_Draw\UEFA_Draw\obj\Debug\UEFA_Draw.Form1.resources
+C:\Users\amark\source\repos\UEFA_Draw\UEFA_Draw\obj\Debug\UEFA_Draw.Params.resources
+C:\Users\amark\source\repos\UEFA_Draw\UEFA_Draw\obj\Debug\UEFA_Draw.Properties.Resources.resources
+C:\Users\amark\source\repos\UEFA_Draw\UEFA_Draw\obj\Debug\UEFA_Draw.csproj.GenerateResource.cache
+C:\Users\amark\source\repos\UEFA_Draw\UEFA_Draw\obj\Debug\UEFA_Draw.csproj.CoreCompileInputs.cache
+C:\Users\amark\source\repos\UEFA_Draw\UEFA_Draw\obj\Debug\UEFA_Draw.exe
+C:\Users\amark\source\repos\UEFA_Draw\UEFA_Draw\obj\Debug\UEFA_Draw.pdb
+C:\Users\amark\source\repos\UEFA_Draw\UEFA_Draw\obj\Debug\UEFA_Draw.Countries.resources
+C:\Users\amark\source\repos\UEFA_Draw\UEFA_Draw\obj\Debug\UEFA_Draw.csproj.AssemblyReference.cache
+C:\Users\amark\source\repos\UEFA_Draw\UEFA_Draw\obj\Debug\UEFA_Draw.Constraints.resources
